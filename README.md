@@ -1,4 +1,4 @@
-# Hi there 👋 this is Yousof
+# Hi there 👋 this is Sepehr
 [![sepehr99p github stats](https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sepehr99p)
 
 ## How's life
