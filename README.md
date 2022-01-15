@@ -2,8 +2,8 @@
 [![sepehr99p github stats](https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/sepehr99p)
 
 ## How's life
-- nothing yet
 - software developer
+- linux fan
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehr99p&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/sepehr99p)
@@ -24,6 +24,5 @@
 ## How to reach me
 
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/sepehr99p)
-
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/sepehr99p)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/sepehrpourekrami/)
