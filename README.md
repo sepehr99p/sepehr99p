@@ -10,12 +10,12 @@
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![ANDROID](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
