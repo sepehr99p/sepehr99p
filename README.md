@@ -10,7 +10,7 @@
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![ANDROID](https://www.vectorlogo.zone/logos/android/android-tile.svg)
+![ANDROID](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
