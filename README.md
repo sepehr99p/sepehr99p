@@ -10,6 +10,7 @@
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Android](https://www.vectorlogo.zone/util/preview.html?image=/logos/android/android-tile.svg)
 <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
