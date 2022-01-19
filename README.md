@@ -13,7 +13,7 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![ANDROID](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 ![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![ExpressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)
 ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
