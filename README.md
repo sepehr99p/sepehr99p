@@ -12,7 +12,7 @@
 ![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![ANDROID](https://www.vectorlogo.zone/logos/android/android-icon.svg)
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
+![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
