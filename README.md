@@ -2,17 +2,18 @@
 
 
 ## How's life
-- software developer
+- Android Engineer
+- Data Mining Student
 - linux fan
 
 
 
 ## What i know
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![ANDROID](https://www.vectorlogo.zone/logos/android/android-icon.svg)
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Django](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
