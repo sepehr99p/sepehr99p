@@ -20,9 +20,6 @@
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ![Zabbix](https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg)
 
-### Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true)](https://github.com/sepehr99p/)
-
 ## How to reach me
 
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/sepehr99p)
