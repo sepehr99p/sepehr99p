@@ -3,7 +3,6 @@
 
 ## How's life
 - Android Engineer
-- Data Mining Student
 - linux fan
 - 💬 Ask me about **Android Development**
 
