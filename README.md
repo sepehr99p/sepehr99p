@@ -27,9 +27,25 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sepehr99p&" alt="sepehr99p" /></p>
 
-## How to reach me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepehr99p&show_icons=true&locale=en&layout=compact" alt="sepehr99p" /></p>
 
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/sepehr99p)
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/sepehr99p)
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/sepehrpourekrami/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true&locale=en" alt="sepehr99p" /></p>
+
+## How to reach me
+<p align="left">
+<a href="https://stackoverflow.com/users/9808073/sep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6602399" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sepehr99p" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="6602399" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9808073/sep" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="6602399" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sepehrpourekrami/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="6602399" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
 
