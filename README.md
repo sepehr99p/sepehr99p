@@ -2,7 +2,7 @@
 
 
 ## How's life
-- Android Engineer
+- Software Engineer
 - linux fan
 - 💬 Ask me about **Android Development**
 
