@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepehr99p&show_icons=true&locale=en&layout=compact" alt="sepehr99p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true&locale=en" alt="sepehr99p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true&locale=en&include_all_commits=true" alt="sepehr99p" /></p>
 
 ## How to reach me
 <p align="left">
