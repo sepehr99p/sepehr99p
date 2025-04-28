@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepehr99p&show_icons=true&locale=en&layout=compact" alt="sepehr99p" /></p>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66a0bf5ada00e39c4903d0ab?variant=light&roadmaps=android%2Csoftware-architect%2Cbackend%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66a0bf5ada00e39c4903d0ab?variant=dark&roadmaps=android%2Cdatastructures-and-algorithms%2Csoftware-design-architecture%2Cbackend)](https://roadmap.sh)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepehr99p&show_icons=true&locale=en" alt="sepehr99p" /></p>
 
