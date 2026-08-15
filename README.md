@@ -4,7 +4,6 @@
 ## How's life
 - Software Engineer
 - linux fan
-- 💬 Ask me about **Android Development**
 
 ## What i know
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
